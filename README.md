@@ -6,6 +6,7 @@ Practice before I start my actual masters project for Sentiment Analysis
 - Download the dataset from Kaggle (requires a free Kaggle account) and extract the archive.
 - Copy the `test.ft.txt` file (or other files you plan to use) into the `amazon_reviews_kaggle/` directory in this repository.
 - Large data files are not tracked in Git; if you need to version them, consider using Git LFS or storing them separately.
+- Rename dataset file to "review_labels.txt" and place in amazon_reviews_kaggle folder.
 
 ## Getting Started
 Once the dataset is in place you can iterate locally on notebooks or scripts for preprocessing and modelling without committing the large source data to GitHub.
