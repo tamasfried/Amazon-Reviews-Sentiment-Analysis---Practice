@@ -1,2 +1,0 @@
-amazon_reviews_kaggle/*.txt filter=lfs diff=lfs merge=lfs -text
-review_labels.txt filter=lfs diff=lfs merge=lfs -text
